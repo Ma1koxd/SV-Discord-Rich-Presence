@@ -1,6 +1,6 @@
 using StardewModdingAPI;
 
-namespace ClassLibrary1;
+namespace StardewValleyDiscordRichPresence;
 
 public class ModEntry : Mod
 {

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{37A2DD17-6DA1-4DE3-BFFA-7CA0D50624D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StardewValleyDiscordRichPresence", "StardewValleyDiscordRichPresence\StardewValleyDiscordRichPresence.csproj", "{37A2DD17-6DA1-4DE3-BFFA-7CA0D50624D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
