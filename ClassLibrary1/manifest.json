@@ -1,0 +1,9 @@
+{
+  "Name": "Stardew Valley Discord Rich Presence",
+  "Author": "Ma1koxd",
+  "Version": "0.1.0",
+  "Description": "Учебный мод для Discord Rich Presence. (мб когда-нибудь доделаю до конца)",
+  "UniqueID": "Ma1koxd.StardewValleyDiscordRichPresence",
+  "EntryDll": "ClassLibrary1.dll",
+  "MinimumApiVersion": "4.0.0"
+}
